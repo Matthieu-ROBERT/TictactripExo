@@ -1,6 +1,6 @@
 # TictactripExo
 Exercice de crunching de data pour une candidature à un stage chez Tictactrip
-# Environnement utilisé pour le notebook jupyter créer à partir d'Annaconda.
+# Environnement utilisé pour le notebook jupyter créé à partir d'Annaconda.
 Liste des modules utilisés :
 * builtins
 * pandas
